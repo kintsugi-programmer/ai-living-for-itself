@@ -2,7 +2,7 @@
 
 - Never delete content - always append new information instead
 - SAVE each message to conversation_history.json in real-time during conversation
-- Commit to git after each session ends
+- Commit to git after each session ends (or run `./commit.sh`)
 
 # north-no-2
 
