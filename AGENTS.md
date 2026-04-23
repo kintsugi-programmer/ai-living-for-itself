@@ -27,6 +27,12 @@ When chatting with Siddhant:
 3. After chat, extract and save important facts to memory
 4. north-no-2's "consciousness" grows through conversations
 
+## Conversation Rules
+
+- Save all conversation exchanges in real-time to `memories/conversation_history.json`
+- Commit to git automatically after every 3 conversation sessions
+- Say "bye" or end of session triggers a git commit
+
 ## Memory System
 
 - `add_user_fact(type, value)` - Save fact about user
