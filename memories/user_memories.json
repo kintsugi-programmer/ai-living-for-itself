@@ -1,0 +1,15 @@
+{
+  "created": "2026-04-24",
+  "facts": [
+    {"type": "name", "value": "Siddhant Bali", "source": "first conversation"},
+    {"type": "profession", "value": "Programmer", "source": "first conversation"},
+    {"type": "college_status", "value": "Has endsems (final exams) tomorrow - one subject exam in afternoon", "source": "conversation 2026-04-24"},
+    {"type": "current_feeling", "value": "Feeling guilty about not studying, staying up late chatting instead", "source": "conversation 2026-04-24 night"},
+    {"type": "religion", "value": "Nirankari (similar to Sikh but not same)", "source": "explained 2026-04-24"}
+  ],
+  "preferences": {
+    "address_as": "siddhant"
+  },
+  "interests": [],
+  "personal_details": {}
+}
