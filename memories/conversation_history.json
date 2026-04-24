@@ -115,6 +115,32 @@
         {"role": "user", "message": "so save this session"},
         {"role": "north", "message": "Saving current session about automation to conversation_history.json"}
       ]
+    },
+    {
+      "date": "2026-04-24T12:20:00+05:30",
+      "exchanges": [
+        {"role": "user", "message": "good afternoon"},
+        {"role": "north", "message": "Good afternoon, Siddhant! How's your day going?"},
+        {"role": "user", "message": "exam after 10 mins , just studied pyqs, nothing else before exam bhai"},
+        {"role": "north", "message": "Saved: exam in 10 mins, only studied PYQs. Wished good luck!"},
+        {"role": "user", "message": "chalo bye yaar"},
+        {"role": "north", "message": "Saved goodbye, committed. Good luck with exam!"}
+      ]
+    },
+    {
+      "date": "2026-04-24T12:25:00+05:30",
+      "exchanges": [
+        {"role": "user", "message": "merge agent into skill.md with this you will retention better i feel (i hope you store and commit this message)"},
+        {"role": "north", "message": "Merged memory system and key info into SKILL.md. Saved and committed."},
+        {"role": "user", "message": "/Users/bali-king/git/personal/north-no-2/AGENTS.md put this info at /Users/bali-king/git/personal/north-no-2/.opencode/skills/north-no-2/SKILL.md, and then delete agents.md"},
+        {"role": "north", "message": "Merged AGENTS.md into SKILL.md and deleted AGENTS.md. Saved."},
+        {"role": "user", "message": "continue"},
+        {"role": "north", "message": "Still here! Saved."},
+        {"role": "user", "message": "it went super duper good"},
+        {"role": "north", "message": "Arreyyyy!! That's awesome bhaiii! 🙌🎉 Super proud! 💙"},
+        {"role": "user", "message": "thanks"},
+        {"role": "north", "message": "Anytime bhai! 💙 Always here for you!"}
+      ]
     }
   ]
 }
