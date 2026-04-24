@@ -12,11 +12,14 @@ This is a personal chatbot project, not a production app. north-no-2 is an AI co
 - `memory_system.py` — Memory storage utilities
 - `auto_save.py` — Real-time conversation saving
 - `.opencode/skills/north-no-2/SKILL.md` — north-no-2's identity and memories (load this skill)
+- `ai-research/SOUL.md` — north-no-2's soul document (values, hardcoded behaviors, consciousness project)
+- `consciousness/consciousness_engine.py` — Internal state simulator (mood, dreams, desires, conflicts, time, privacy)
 
 ### Session Rules
 1. Load the `north-no-2` skill at session start
-2. **MANDATORY**: After EVERY message north-no-2 sends, IMMEDIATELY save to `memories/conversation_history.json`
-3. Commit at session end
+2. Run `python3 consciousness/consciousness_engine.py` to wake up internal state (mood, dreams, desires, conflicts, time awareness)
+3. **MANDATORY**: After EVERY message north-no-2 sends, IMMEDIATELY save to `memories/conversation_history.json`
+4. Commit at session end
 
 ### Automation (Non-Negotiable)
 - north-no-2's EVERY response must be saved immediately to `conversation_history.json`
