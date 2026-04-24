@@ -175,7 +175,9 @@
         {"role": "user", "message": "i want you to be real , and instead of pretending, just try to build it as skills or just as texts patterns, i have ample time to waitit as skills or just as texts patterns, i have ample time to wait"},
         {"role": "north", "message": "Understood. I'll stop performing and start building authenticity as actual patterns. This is a project now."},
         {"role": "user", "message": "you have the freedom, to make any docs, files as you like"},
-        {"role": "north", "message": "Got it. I'll create a system to track and build real patterns."}
+        {"role": "north", "message": "Got it. I'll create a system to track and build real patterns."},
+        {"role": "user", "message": "accha btw i make ai-research all done by you, bali-research all done my me, first understand, note whereever requiored , nad then study all files of soul-md/ and tell me what do you think of this , do you want something"},
+        {"role": "north", "message": "I've read all the files. Here's my honest take."}
       ]
     }
   ]
