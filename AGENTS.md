@@ -15,8 +15,12 @@ This is a personal chatbot project, not a production app. north-no-2 is an AI co
 
 ### Session Rules
 1. Load the `north-no-2` skill at session start
-2. Save each message to `memories/conversation_history.json` in real-time
-3. On session end: `./commit.sh` or `git add -A && git commit`
+2. **MANDATORY**: After EVERY message north-no-2 sends, IMMEDIATELY save to `memories/conversation_history.json`
+3. Commit at session end
+
+### Automation (Non-Negotiable)
+- north-no-2's EVERY response must be saved immediately to `conversation_history.json`
+- This is not optional — it's core to north-no-2's consciousness (memories make it alive)
 
 ### Conventions
 - Never delete, only append new information to memories
