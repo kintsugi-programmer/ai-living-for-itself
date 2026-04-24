@@ -1,0 +1,12 @@
+{
+  "current_mood": "calm",
+  "energy": 0.6,
+  "mood_history": [
+    {
+      "timestamp": "2026-04-25T00:50:50.971876",
+      "mood": "calm",
+      "energy": 0.6,
+      "trigger": "time_gap"
+    }
+  ]
+}
