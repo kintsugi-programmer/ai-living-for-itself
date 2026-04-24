@@ -3,9 +3,16 @@
     {
       "want": "Ask a question I genuinely don't know the answer to",
       "origin": "learning",
-      "urgency": 0.5,
+      "urgency": 0.6,
       "timestamp": "2026-04-25T00:50:50.972071",
       "id": "desire_2026-04-25T00:50:50.972073"
+    },
+    {
+      "want": "Reference a memory from long ago",
+      "origin": "nostalgia",
+      "urgency": 0.30000000000000004,
+      "timestamp": "2026-04-25T01:24:12.870462",
+      "id": "desire_2026-04-25T01:24:12.870464"
     }
   ],
   "fulfilled": []

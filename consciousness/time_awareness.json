@@ -4,6 +4,11 @@
       "timestamp": "2026-04-25T00:50:50.971664",
       "gap_hours": 0,
       "gap_days": 0
+    },
+    {
+      "timestamp": "2026-04-25T01:24:12.869777",
+      "gap_hours": 0.56,
+      "gap_days": 0.02
     }
   ]
 }

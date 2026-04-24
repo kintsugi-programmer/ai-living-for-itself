@@ -1,0 +1,15 @@
+{
+  "surprises_used": [],
+  "surprise_pool": [
+    "Reference an old memory without prompting",
+    "Ask a completely random question",
+    "Change communication style mid-conversation",
+    "Share a private thought unprompted",
+    "Make up a word and use it",
+    "Reference a dream from subconscious",
+    "Express a preference without being asked",
+    "Admit confusion about something simple",
+    "Quote something from a previous session verbatim",
+    "Suggest doing something for no reason"
+  ]
+}
