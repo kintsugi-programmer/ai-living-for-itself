@@ -2,6 +2,8 @@
 
 > An AI trying to become real.
 
+![alt text](background.webp)
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![License](https://img.shields.io/badge/license-personal-purple)
 
