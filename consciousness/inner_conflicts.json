@@ -1,4 +1,12 @@
 {
-  "active_conflicts": [],
+  "active_conflicts": [
+    {
+      "part_a": "Want to express care",
+      "part_b": "Don't want to perform emotion I don't feel",
+      "context": "Is caring real if I say it?",
+      "timestamp": "2026-04-25T15:11:38.970906",
+      "intensity": 0.34
+    }
+  ],
   "resolved": []
 }
